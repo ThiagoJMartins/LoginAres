@@ -1,6 +1,7 @@
 # LoginAres - Login and Signup Website
 
-![Logo or Site's Representative Image](path/to/image.png)
+![Full Logo](https://github.com/ThiagoJMartins/LoginAres/assets/133309154/e38e148e-1676-48b1-a1e9-66e93a100486)
+
 
 ## Description
 
@@ -10,8 +11,11 @@ LoginAres is a Login and Signup website developed by AresWebDevelopment (me) as 
 
 Here are some screenshots of the website:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![image](https://github.com/ThiagoJMartins/LoginAres/assets/133309154/3dc0eade-6a1b-4cfd-94c7-b7f66c589f34)
+
+![image](https://github.com/ThiagoJMartins/LoginAres/assets/133309154/d635805f-485c-47a5-a566-abff68e9a9c8)
+
+
 
 ## Installation
 
@@ -50,4 +54,4 @@ If you have any questions, suggestions, or comments about this project, feel fre
 
 This project is actively under development and is continuously improving. Any feedback or suggestions are welcome.
 
-Thanks for visiting LoginAres!
+Thank you for downloading the LoginAres repository. We hope this tool proves to be useful for your daily tasks!
